@@ -1,9 +1,16 @@
 name: Daily scrape & upload
 
+# Scheduled trigger disabled: scraping now runs on Railway instead. Re-enable
+# the `schedule` block below to bring the GitHub Actions cron back.
 on:
-  schedule:
-    - cron: "0 3 * * *" # 03:00 UTC daily
-  workflow_dispatch: {}
+  # schedule:
+  #   - cron: "0 3 * * *" # 03:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Cap the number of articles scraped/synced (leave empty for a full run)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -18,14 +25,20 @@ jobs:
         run: docker build -t docsift-scraper .
 
       - name: Run daily scrape
+        env:
+          LIMIT: ${{ github.event.inputs.limit }}
         run: |
+          args=()
+          if [ -n "$LIMIT" ]; then
+            args+=(--limit "$LIMIT")
+          fi
           docker run --rm \
             -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" \
             -e GEMINI_MODEL="${{ vars.GEMINI_MODEL }}" \
             -e GEMINI_STORE_NAME="${{ vars.GEMINI_STORE_NAME }}" \
             -v "${{ github.workspace }}/articles:/app/articles" \
             -v "${{ github.workspace }}/data:/app/data" \
-            docsift-scraper | tee run.log
+            docsift-scraper "${args[@]}" | tee run.log
 
       - name: Job summary
         if: always()
