@@ -7,6 +7,7 @@ data
 .github
 tests
 scripts
+!scripts/streamlit_app.py
 docs
 MY_LOG.md
 **/__pycache__
