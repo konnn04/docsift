@@ -1,0 +1,13 @@
+venv
+articles
+data
+.env
+.env.sample
+.git
+.github
+tests
+scripts
+docs
+MY_LOG.md
+**/__pycache__
+**/*.pyc

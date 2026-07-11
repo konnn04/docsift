@@ -1,0 +1,902 @@
+{
+  "10259143299219": {
+    "hash": "c83ae0ffb99a9add5cc61ebc2f47ab05e5491da89418f73cba57ca59adebdf51",
+    "path": "articles/10259143299219-how-to-use-website-screenshot-app.md",
+    "updated_at": "2026-06-25T19:46:15Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/10259143299219howtousewebsi-7rtplh8efbko"
+    }
+  },
+  "11116333259283": {
+    "hash": "4c1c5e656f4b29bd3ef753d5d50643edf4628f0823f374ea545c18c64a24862d",
+    "path": "articles/11116333259283-setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade.md",
+    "updated_at": "2026-06-10T11:03:57Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/11116333259283settingupyour-cgul9ud8z9j3"
+    }
+  },
+  "1500000480302": {
+    "hash": "5fa2a005698a4de5c1887c4d52b342a17ac9ab6dadf9cbbf483fed6ae6be6c0d",
+    "path": "articles/1500000480302-advanced-custom-domain-mapping.md",
+    "updated_at": "2026-05-29T17:34:19Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/1500000480302advancedcustom-8s2fwnr6gjnm"
+    }
+  },
+  "1500000493782": {
+    "hash": "0451fe5c63bfcc48f33a37dfba37161f75bb3516fbe18ecf220f262e8d19dd56",
+    "path": "articles/1500000493782-billing-how-do-i-change-my-subscription-plan.md",
+    "updated_at": "2026-07-08T04:10:51Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/1500000493782billinghowdoic-7tw6z0qyfybj"
+    }
+  },
+  "1500012522362": {
+    "hash": "0c6723ed9118d897a081e7a6f5a7aae86c47b039a97720dff232a68c43359a00",
+    "path": "articles/1500012522362-how-to-use-the-web-scripting-app.md",
+    "updated_at": "2026-05-14T16:05:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/1500012522362howtousetheweb-sgm74clc8n89"
+    }
+  },
+  "15268811715347": {
+    "hash": "ad309ba58230146fb91ac6339bb12f15fa6e2f9cac500be02f132724b3b1b73a",
+    "path": "articles/15268811715347-cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md",
+    "updated_at": "2026-06-11T17:13:11Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15268811715347-Cannot-find-the-OptiSigns-app-on-Your-Samsung-Smart-TV",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/15268811715347cannotfindthe-k19gfgn6koi0"
+    }
+  },
+  "17129313173395": {
+    "hash": "a285e88f31945caab273ea0babe1d2ee2ffe5f26f9c008d5398d056e36731a78",
+    "path": "articles/17129313173395-how-to-manage-sub-account-billing-with-optisigns.md",
+    "updated_at": "2026-06-24T17:40:46Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/17129313173395howtomanagesu-y4adjr527hz8"
+    }
+  },
+  "17639078588691": {
+    "hash": "51dc09f7f83a30186eac458a7e06030a738600ecd6e73d3abe494f28c440210f",
+    "path": "articles/17639078588691-how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case.md",
+    "updated_at": "2026-05-28T20:38:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/17639078588691howtocancelsu-st70zdwrebnq"
+    }
+  },
+  "18823504383891": {
+    "hash": "9088622e88bddb76f81916f0d9ae3e80eb584f8354f0eb62b67c10ee061e99a7",
+    "path": "articles/18823504383891-optisigns-getting-started-guide.md",
+    "updated_at": "2026-03-31T21:41:21Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/18823504383891optisignsgett-31k46m49ov56"
+    }
+  },
+  "18986181635859": {
+    "hash": "efc37287d3a78759fd754d3b16eccf426cee04b922d44a20ee6a035f4b87dcda",
+    "path": "articles/18986181635859-how-to-share-contents-with-other-users-teams.md",
+    "updated_at": "2026-05-29T17:35:48Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/18986181635859-How-to-Share-Contents-with-Other-Users-Teams",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/18986181635859howtosharecon-hryg6wzpt97b"
+    }
+  },
+  "20153471319187": {
+    "hash": "1a174868c4eaf7f3c9097902323a87978095fc0562a87e9bdc5c1f8825543e9f",
+    "path": "articles/20153471319187-external-storage-on-optisigns-devices.md",
+    "updated_at": "2026-06-05T16:36:27Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/20153471319187externalstora-g75g2w69bi36"
+    }
+  },
+  "20750060900883": {
+    "hash": "316000391987fb3e9ca927fe32caa68433590c8699d59cf6b7a80e6557cf52aa",
+    "path": "articles/20750060900883-your-facebook-page-doesn-t-show-in-the-dropdown-list.md",
+    "updated_at": "2026-04-30T20:24:48Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/20750060900883yourfacebookp-9bsps4jk69wx"
+    }
+  },
+  "21708242980755": {
+    "hash": "805bf3449c5fdadedaa4d4e1f4a43026667d43c88ed9b43eef59a620114a21b8",
+    "path": "articles/21708242980755-how-to-share-playlist-and-folder-with-external-users.md",
+    "updated_at": "2026-06-26T13:56:08Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/21708242980755howtosharepla-2074pyj7dfjt"
+    }
+  },
+  "23565267463315": {
+    "hash": "71549d536de2d8a0c4d0c6b93ef54e3a1743ce4a0e388a30a8b05cc93a87fcaa",
+    "path": "articles/23565267463315-engage-plan-faqs.md",
+    "updated_at": "2026-06-29T19:25:18Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/23565267463315engageplanfaq-hurftxve6zjv"
+    }
+  },
+  "25607930101907": {
+    "hash": "32d5063a3d93348b1116036662487550b8e42ebb03a365ffe152fcb5cd986108",
+    "path": "articles/25607930101907-how-to-get-the-most-out-of-your-digital-signs.md",
+    "updated_at": "2026-06-08T15:18:50Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/25607930101907howtogetthemo-m5iobngwgfzc"
+    }
+  },
+  "27267311796243": {
+    "hash": "137b97a0f69498ee129c8a8e8f32954c4f41bbf475422b30847e974edf4662cb",
+    "path": "articles/27267311796243-optistick.md",
+    "updated_at": "2026-06-26T13:51:49Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/27267311796243optistickmd-9x98p6631im1"
+    }
+  },
+  "27356288211859": {
+    "hash": "fce694eb3d5eefef39461e998cd73875da8df3e52a4751fe42f7f2bb9715bd88",
+    "path": "articles/27356288211859-how-to-use-icloud-calendar-with-optisigns.md",
+    "updated_at": "2026-03-26T16:45:12Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27356288211859-How-to-use-iCloud-Calendar-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/27356288211859howtouseiclou-2d1f5z11ream"
+    }
+  },
+  "27463953562899": {
+    "hash": "d7ef54845f4d4fb8e114361f8e578e33227a40f08cb38cd819324179b8be181f",
+    "path": "articles/27463953562899-amazon-tv-firestick-troubleshooting-guide.md",
+    "updated_at": "2026-04-28T15:36:27Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27463953562899-Amazon-TV-FireStick-Troubleshooting-Guide",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/27463953562899amazontvfires-re1lsvjqzfxr"
+    }
+  },
+  "27690296225555": {
+    "hash": "33bbe6804c65ef0eb526d53ecc2e51fd9dcf8ca5612aac9fcee7be2ba37691a0",
+    "path": "articles/27690296225555-ai-camera-app-quick-start.md",
+    "updated_at": "2026-06-29T19:26:02Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/27690296225555aicameraappqu-ic0sfg4p0tpj"
+    }
+  },
+  "28295074995859": {
+    "hash": "d489cba277d872a576e64aa8b5c6810c45179594d01fb7cb341c7c49448cc3e0",
+    "path": "articles/28295074995859-how-to-manage-and-edit-your-playlist-settings.md",
+    "updated_at": "2026-06-04T22:14:32Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/28295074995859howtomanagean-9gz5bure1siw"
+    }
+  },
+  "28295104605843": {
+    "hash": "c7ebf7b74801ee4568070d105df2cd5f2379396fbc5af94d16024d2938ebc2c7",
+    "path": "articles/28295104605843-how-to-create-use-playlists.md",
+    "updated_at": "2026-03-31T21:42:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/28295104605843howtocreateus-1an3k8a0jr14"
+    }
+  },
+  "28598173096723": {
+    "hash": "a913f6c0fe9e0630fe2d8d91f90648a92e259eb0a5dbad72e7dea1b94f7fe2a4",
+    "path": "articles/28598173096723-how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
+    "updated_at": "2026-07-08T14:47:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/28598173096723howtocreatean-vfr739osq6yr"
+    }
+  },
+  "29217646663187": {
+    "hash": "b98c62f2cc433550d3e1a77e3d22d535f9dded34dd648d5b00ceacc6188f902c",
+    "path": "articles/29217646663187-how-to-set-up-dynamic-data-mapping-with-optisync.md",
+    "updated_at": "2026-07-09T15:33:50Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/29217646663187howtosetupdyn-dcu3tldr4ken"
+    }
+  },
+  "29465595849235": {
+    "hash": "29ed3cff4a4b16002ba957026df824f9ffa4b4055083b6d7a2763c407d4a21ad",
+    "path": "articles/29465595849235-list-of-supported-cities-for-weather-wall-city-themes.md",
+    "updated_at": "2026-04-08T13:41:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/29465595849235listofsupport-roc6og0vresn"
+    }
+  },
+  "29792081890323": {
+    "hash": "2deab21812ee6bbec15f13d1a51a3047009664bc3330a3b51fe2721e3b282b58",
+    "path": "articles/29792081890323-guide-for-creating-content-with-optisigns.md",
+    "updated_at": "2026-05-21T17:52:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/29792081890323guideforcreat-h2ugccijh1mx"
+    }
+  },
+  "30003143806099": {
+    "hash": "f642000a4b48f8be41f742a2abd8257479d6fe428b57377a806649fb89a8085a",
+    "path": "articles/30003143806099-how-to-use-the-optisigns-mobile-admin-app.md",
+    "updated_at": "2026-06-11T11:49:35Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/30003143806099howtousetheop-q2rzwwhn7g7h"
+    }
+  },
+  "30310366838803": {
+    "hash": "dc321765d43382bbacff28944ad9143fec5a96741bb30f19997ea2b843bf054a",
+    "path": "articles/30310366838803-enabling-lock-down-mode-on-touch-screen-devices.md",
+    "updated_at": "2026-04-21T19:22:05Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/30310366838803enablinglockd-7ozu5aci33ir"
+    }
+  },
+  "31960461758611": {
+    "hash": "f142c652f828de8260935ebf16755a2d66750ff024f9e54aca07befb64cee53c",
+    "path": "articles/31960461758611-how-to-order-a-preconfigured-optisigns-android-player-device.md",
+    "updated_at": "2026-06-11T17:48:29Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/31960461758611howtoorderapr-7iwjeofoi47e"
+    }
+  },
+  "32129032857875": {
+    "hash": "1d171fb80ca2d176889e2f64647bb447868d09fcf92e4e6f95b603939634ca76",
+    "path": "articles/32129032857875-where-to-buy-optisigns-devices.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/32129032857875wheretobuyopt-4uim4uajufae"
+    }
+  },
+  "32272215514131": {
+    "hash": "d5e1b2188d5d8f2c39f374d3d7a8905935deb2a5ca61a39d11da53f454a84c16",
+    "path": "articles/32272215514131-proplayer.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/32272215514131proplayermd-o1ojiae9narm"
+    }
+  },
+  "32860569148819": {
+    "hash": "fe07fcdb07c118214e10d4afe4b5b5df138608af7fbe8d97e88f1995b8fc4123",
+    "path": "articles/32860569148819-how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
+    "updated_at": "2026-03-17T22:32:17Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/32860569148819howtosetupapo-ipgpoow15vbm"
+    }
+  },
+  "33940834613139": {
+    "hash": "9956b7a8b5a2a27c85deecc6c038b268774dbd654be34a43aef54540c8f2dc8d",
+    "path": "articles/33940834613139-what-do-i-get-with-an-optisigns-free-plan.md",
+    "updated_at": "2026-03-27T20:38:29Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/33940834613139whatdoigetwit-9dk9ftjkgwwp"
+    }
+  },
+  "35577511423635": {
+    "hash": "be4bbe53778c56296c4e05d98ccf1bd5d29c276eb79979701649a92de2cf1d33",
+    "path": "articles/35577511423635-optisigns-pro-player-advanced-features.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/35577511423635optisignsprop-mzgwcwxt5ypd"
+    }
+  },
+  "360016174554": {
+    "hash": "079d2808f1cba8ed0af3ad8119818d62089fa19a0eeddc5eb3379a80b9bc5b44",
+    "path": "articles/360016174554-amazon-firestick.md",
+    "updated_at": "2026-06-05T22:12:50Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016174554amazonfirestick-ppfzqbxrkdsp"
+    }
+  },
+  "360016247974": {
+    "hash": "32e3b38f252be644bd6069ba03ec1449e3dc5c1d20410bec3934a5b05230757f",
+    "path": "articles/360016247974-how-to-upload-manage-your-files-assets.md",
+    "updated_at": "2026-05-28T19:30:59Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016247974howtouploadmana-yyzxph6onrri"
+    }
+  },
+  "360016252654": {
+    "hash": "b4122dd25810a4cb7b23dff7f12d8a54fcd09bcc7efb1c57ba4979d2cde0d33c",
+    "path": "articles/360016252654-does-optisigns-offer-non-profit-education-discount.md",
+    "updated_at": "2026-07-02T17:12:40Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016252654doesoptisignsof-2h34ruaoh2m8"
+    }
+  },
+  "360016313754": {
+    "hash": "36f4dd5514e7864156c11c7835ce3ff929d0616a2939e10ce81b60e0661104f0",
+    "path": "articles/360016313754-how-to-install-an-apk-file-on-your-fire-tv.md",
+    "updated_at": "2026-07-10T23:06:42Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016313754howtoinstallana-8soe5duoodng"
+    }
+  },
+  "360016376793": {
+    "hash": "c952d468742ecb06608e448741d5307c6f50ecf832bbb10dda0b9ee89290bb30",
+    "path": "articles/360016376793-what-happen-if-internet-connection-is-lost.md",
+    "updated_at": "2026-05-26T18:14:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016376793whathappenifint-i8kjty9636qo"
+    }
+  },
+  "360016484473": {
+    "hash": "ec3cbfd7c18ec62c7783777041d365450fccf9e1b2ef61af4f6a61861290731a",
+    "path": "articles/360016484473-why-does-my-screen-show-as-offline-on-the-web-portal.md",
+    "updated_at": "2026-05-19T19:33:42Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016484473whydoesmyscreen-3e3hawbmctya"
+    }
+  },
+  "360016981853": {
+    "hash": "fa3470b23aec3dadcc979f95ebfd35208bf6de1eb9e8113f83b662aa0194703d",
+    "path": "articles/360016981853-creating-and-using-schedules-with-optisigns.md",
+    "updated_at": "2026-03-31T22:14:33Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360016981853creatingandusin-z1g03b5mxue5"
+    }
+  },
+  "360024859713": {
+    "hash": "a251c0168eac57aa6a4bc81939be31d0ae1d6cc1bb4dffb6656ab4d2555bf86e",
+    "path": "articles/360024859713-how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns.md",
+    "updated_at": "2026-03-25T21:24:00Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360024859713howtodisplaymic-g1wo6izdnzlz"
+    }
+  },
+  "360025626853": {
+    "hash": "96efd62f94a4de00c4aa1141eb2c3f26c54869f95de74af2859bceb32821aa31",
+    "path": "articles/360025626853-how-to-start-optisigns-automatically-when-devices-boot-up.md",
+    "updated_at": "2026-06-08T18:26:02Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360025626853-How-to-start-OptiSigns-automatically-when-devices-boot-up",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360025626853howtostartoptis-4gi8uku3zfwd"
+    }
+  },
+  "360025661053": {
+    "hash": "97f33dbf4c1799a10318182b9ad8aefa680e9c29fe47e4e66c31bc88442e6ca2",
+    "path": "articles/360025661053-how-can-i-remove-delete-uploaded-files-or-assets.md",
+    "updated_at": "2026-06-26T20:54:46Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360025661053howcaniremovede-hcnz8f0gscqb"
+    }
+  },
+  "360026559573": {
+    "hash": "d92deddf7f74a1ba0bbae7d0652f3c5df3c0d0860648ea9cd95b3d1408036421",
+    "path": "articles/360026559573-how-to-create-and-use-the-split-screen-app.md",
+    "updated_at": "2026-07-09T21:32:58Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360026559573howtocreateandu-ulls4o0l0arc"
+    }
+  },
+  "360034883113": {
+    "hash": "79de7f1befcb3c8e1305bf0ee25a63dab87a7b760d38ec19a9979a5f1289ee42",
+    "path": "articles/360034883113-working-with-teams-and-security-levels.md",
+    "updated_at": "2026-06-01T19:53:55Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360034883113-Working-with-Teams-and-Security-Levels",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360034883113workingwithteam-p30xalkdsszc"
+    }
+  },
+  "360035538093": {
+    "hash": "3084698cd3aa991f5455ed0706d10e9755bafb02cce0825dd11370ff17d1d3a7",
+    "path": "articles/360035538093-my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md",
+    "updated_at": "2026-07-07T16:43:26Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360035538093myimagecontenta-v4owe0nuh4bx"
+    }
+  },
+  "360035739414": {
+    "hash": "4e322cb95b40b425f18d40344222244d6e5ce998e3f19edb52149a1b31b418ca",
+    "path": "articles/360035739414-how-to-preview-a-screen.md",
+    "updated_at": "2026-05-17T21:11:45Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360035739414howtopreviewasc-1wsb5g6mrokg"
+    }
+  },
+  "360036250853": {
+    "hash": "4c17f9578e0f946f6067d5a4f011974fd800219204c8797115d2a214d5c7cfba",
+    "path": "articles/360036250853-how-to-use-microsoft-outlook-calendar-with-optisigns.md",
+    "updated_at": "2026-03-25T21:28:19Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360036250853howtousemicroso-v721m4twfcwh"
+    }
+  },
+  "360037391854": {
+    "hash": "e398ece366f4385f3a883947a7c62a8c2474a487fd22dcc38cf627552ca52227",
+    "path": "articles/360037391854-how-to-display-content-inside-websites-that-require-login.md",
+    "updated_at": "2026-06-25T12:33:44Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360037391854howtodisplaycon-8ogw4j49ruef"
+    }
+  },
+  "360037965133": {
+    "hash": "41fe28e8a1532b60b5af08f850e256eb2af09199a376e9302d45050601626ada",
+    "path": "articles/360037965133-how-to-use-rss-feeds-with-optisigns.md",
+    "updated_at": "2026-06-15T16:04:29Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360037965133howtouserssfeed-ld09z9z57l70"
+    }
+  },
+  "360040943374": {
+    "hash": "720a2602feef12b8185ca6cdf9330eb213bca499f2dd2da80f7ea461563f7e2b",
+    "path": "articles/360040943374-assign-default-content-for-schedules.md",
+    "updated_at": "2026-05-05T19:18:10Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360040943374assigndefaultco-z89hnoy268nm"
+    }
+  },
+  "360041222994": {
+    "hash": "27cdea9bb1ffb901d5b50155a54e8e9a1c1cffef1f678d8869beb00b3407a7e7",
+    "path": "articles/360041222994-how-to-use-the-countup-app.md",
+    "updated_at": "2026-05-05T17:07:53Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360041222994howtousethecoun-8fi5a6pzdsjy"
+    }
+  },
+  "360041638433": {
+    "hash": "10a5524009165e90e386d25dfdaf5dba11119fb8e0a445720af4cfc9d06a68f9",
+    "path": "articles/360041638433-how-to-use-the-countdown-app.md",
+    "updated_at": "2026-05-05T17:08:12Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360041638433howtousethecoun-oy0wtvrrduj5"
+    }
+  },
+  "360042143333": {
+    "hash": "61d8e9d335eefb97e41e8d499173331ae0eb87c03aa05c2c718936a2a4f5269e",
+    "path": "articles/360042143333-roku-release-notes-limitation.md",
+    "updated_at": "2026-06-02T20:21:45Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360042143333rokureleasenote-7kkhuyub5pci"
+    }
+  },
+  "360042143753": {
+    "hash": "9dd3ddaefac15695d5dadb11a4127f84cf87b4e352baa7f63ac59e5e27a10451",
+    "path": "articles/360042143753-how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+    "updated_at": "2026-06-29T19:08:36Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360042143753howtoreencodevi-6uqk2habkx9x"
+    }
+  },
+  "360042736794": {
+    "hash": "1d06275bca48dc3891b3b3ac62a1ab0e8c2d12c2048bac56f13dcab2ae6ab664",
+    "path": "articles/360042736794-how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
+    "updated_at": "2026-05-14T22:03:28Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360042736794howtosetanasset-6fh8pe060amn"
+    }
+  },
+  "360047275934": {
+    "hash": "2e2a8c762c522cb5d33d0eba0930df88933dfde240428c4775160ffb2dc5e4e5",
+    "path": "articles/360047275934-whitelist-optisigns-ip-addresses-ports.md",
+    "updated_at": "2026-07-09T19:48:39Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360047275934whitelistoptisi-3pql8k982lka"
+    }
+  },
+  "360048914673": {
+    "hash": "f36af243c0059ba81434c9ed074f697946acb6f27b2613623d3a7c93bf9f2242",
+    "path": "articles/360048914673-edit-screen-what-does-each-option-do.md",
+    "updated_at": "2026-05-21T13:09:58Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360048914673-Edit-Screen-What-does-each-option-do",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360048914673editscreenwhatd-34kcygqh66kz"
+    }
+  },
+  "360049875794": {
+    "hash": "803129cf7784865262fb4e2a908d2765f30972f43cb27defa3c8ac49e3437bea",
+    "path": "articles/360049875794-how-to-use-follow-us-app.md",
+    "updated_at": "2026-07-05T19:15:39Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360049875794howtousefollowu-avlv9yv3u967"
+    }
+  },
+  "360051014713": {
+    "hash": "6d4d519b887307e9cb53d5c629ec9afc9f4aca46ea4a6ac2a81e9e8ce011d503",
+    "path": "articles/360051014713-how-to-use-youtube-with-optisigns.md",
+    "updated_at": "2026-07-08T15:01:25Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360051014713howtouseyoutube-l787cjnpamuw"
+    }
+  },
+  "360052088413": {
+    "hash": "85b6cd4ae3d23e5c00f0af946de42f684c4c3d22d443790e23dd27631fa984ad",
+    "path": "articles/360052088413-how-to-use-the-data-studio-app.md",
+    "updated_at": "2026-06-12T19:57:31Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360052088413howtousethedata-bp7eyy5p3j6f"
+    }
+  },
+  "360054298754": {
+    "hash": "451c4940014d33b3b44d315593624a9f0e8efbfc73f46282de7810c99540a282",
+    "path": "articles/360054298754-how-to-factory-reset-your-fire-stick-device.md",
+    "updated_at": "2026-07-01T13:59:15Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360054298754howtofactoryres-8h1nfsal82y2"
+    }
+  },
+  "360055328454": {
+    "hash": "eb976380e7f00e2800234f57d3d64f4748d5442f2c06bd19b1c78f537b205289",
+    "path": "articles/360055328454-how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
+    "updated_at": "2026-06-28T17:13:26Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360055328454howtoenabledisa-nqsnl9hh7cs9"
+    }
+  },
+  "360055549854": {
+    "hash": "9aef903a00df94eca45b068370804de39c0dab8b04ef05d797fd9141d0f96ec5",
+    "path": "articles/360055549854-pre-configure-wi-fi-with-optisigns-devices.md",
+    "updated_at": "2026-06-11T17:53:34Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360055549854preconfigurewif-i6p2opc4wk91"
+    }
+  },
+  "360056086653": {
+    "hash": "d4bcd6f2b7e55aca271c379981edf45bd1a463e954e8e217d3d39359b2beaaa8",
+    "path": "articles/360056086653-how-to-change-time-zone-on-your-fire-stick-device.md",
+    "updated_at": "2026-07-09T18:27:02Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056086653-How-to-Change-Time-Zone-on-Your-Fire-Stick-device",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360056086653howtochangetime-8zazwp08p8k2"
+    }
+  },
+  "360056087613": {
+    "hash": "f73b77105870b378271cd75d42b0ba34d485fa4bb07ed63845a7b1f78567492a",
+    "path": "articles/360056087613-how-to-clear-cache-on-your-fire-stick-device.md",
+    "updated_at": "2026-05-30T19:09:27Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360056087613-How-to-Clear-Cache-on-Your-Fire-Stick-device",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/360056087613howtoclearcache-is6xra2cdmd7"
+    }
+  },
+  "38680194603155": {
+    "hash": "5f860e218db91ac20f8fb563075ae784f26962b430ee3c7cb7a6ce9b9e3d5db7",
+    "path": "articles/38680194603155-promax.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/38680194603155promaxmd-afl4moqodrql"
+    }
+  },
+  "40147900639891": {
+    "hash": "a4c9b3a9089384f56fff01fe613262175165d89a543e2a32c42dcc3c24440b08",
+    "path": "articles/40147900639891-optistick-troubleshooting-guide.md",
+    "updated_at": "2026-06-26T13:52:36Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/40147900639891optisticktrou-z2dsf4uz7tjf"
+    }
+  },
+  "40671590645651": {
+    "hash": "ab20d5a8f72c0bd25104dbaa3e82153478077fe1cdec3051cc937780c3a4c9eb",
+    "path": "articles/40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
+    "updated_at": "2026-04-08T22:33:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/40671590645651howtoplaylice-9oubxjpbu2b6"
+    }
+  },
+  "41432385864595": {
+    "hash": "813ec29672f7dd28b60713fc7ced307323d33a89d52e3abb38902be2314b42a8",
+    "path": "articles/41432385864595-designer-2-0-new-features.md",
+    "updated_at": "2026-05-12T14:17:09Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/41432385864595designer20new-el8p6kjz0qsv"
+    }
+  },
+  "42307234534547": {
+    "hash": "fa49fae622b02b6826d3f329757c6e6242b8486c9822ba2734f64b1f7b4193d4",
+    "path": "articles/42307234534547-shapes-and-elements.md",
+    "updated_at": "2026-03-30T20:09:57Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/42307234534547shapesandelem-ddj8j0hbhfdo"
+    }
+  },
+  "42436941395475": {
+    "hash": "76d68c5c75f10063ab9a358c6c340c7855b4f40058459de08fcdb85ac08a331d",
+    "path": "articles/42436941395475-widgets-in-designer.md",
+    "updated_at": "2026-06-03T15:53:35Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/42436941395475widgetsindesi-pwktu2cobf1z"
+    }
+  },
+  "42830652820115": {
+    "hash": "0f80d7e02cff5d33829c3aa0ce07f0444e87db35375847942bfb9438709948a7",
+    "path": "articles/42830652820115-your-templates.md",
+    "updated_at": "2026-05-12T21:04:13Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/42830652820115yourtemplates-2up2spqpcjay"
+    }
+  },
+  "4403332894867": {
+    "hash": "f778ec50ca3ff5cefa129f738ffea62d2d1133dbbcfd495601a9835076029945",
+    "path": "articles/4403332894867-how-to-set-up-audit-log-for-your-account.md",
+    "updated_at": "2026-03-18T22:16:52Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4403332894867howtosetupaudi-7s0ftf2dzw8l"
+    }
+  },
+  "4403616315539": {
+    "hash": "4d35da5acede85e4986d2a9bc56594c900ba2cc1fccae3d55fb6ffd4ce4efba2",
+    "path": "articles/4403616315539-how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access.md",
+    "updated_at": "2026-03-17T22:33:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403616315539-How-to-approve-OptiSigns-as-Enterprise-App-on-Microsoft-Azure-for-Power-BI-Calendar-etc-access",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4403616315539howtoapproveop-2emnjedio9ur"
+    }
+  },
+  "4404151402899": {
+    "hash": "b52efffd159340b1226a9e2c56082784d5964ae737ccee9ada74d9581d1e1d07",
+    "path": "articles/4404151402899-how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md",
+    "updated_at": "2026-06-20T07:00:26Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4404151402899howtouseoptisi-vvoc8tsqfvsq"
+    }
+  },
+  "4404590815635": {
+    "hash": "915afd81e0a134b71e5f190b6ed8c4055995b57e7374f2ec891957b1b0f46ed4",
+    "path": "articles/4404590815635-how-to-set-up-saml-2-0-with-optisigns-and-okta.md",
+    "updated_at": "2026-06-08T15:02:21Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4404590815635howtosetupsaml-yfvjv9lsn1lo"
+    }
+  },
+  "4404616314515": {
+    "hash": "800a9d7db6785a0f292408f7e9bf32f4dbbd4bf98295cd17676c1dea0bd82538",
+    "path": "articles/4404616314515-how-to-change-account-owners.md",
+    "updated_at": "2026-05-05T16:36:22Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4404616314515-How-to-Change-Account-Owners",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4404616314515howtochangeacc-dzndvjbsopac"
+    }
+  },
+  "4406214738707": {
+    "hash": "c972d86ee7550e6944958b0b73afa665d2b29c58cade07ff96e16ebcd626cffc",
+    "path": "articles/4406214738707-how-to-use-the-microsoft-meeting-room-app.md",
+    "updated_at": "2026-03-25T21:28:34Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4406214738707howtousethemic-q0qsroj3ez2d"
+    }
+  },
+  "4412065189267": {
+    "hash": "b9b842210e3ab74fc71d191ad8d14f8c36103bcadaefc8889569108a1454c2cb",
+    "path": "articles/4412065189267-synchronized-playback-sync-play-feature.md",
+    "updated_at": "2026-07-06T21:29:32Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4412065189267synchronizedpl-i574edns46pa"
+    }
+  },
+  "4416542923667": {
+    "hash": "00e62c916048de9a57827213310d23202a189b0a35d7c9f9536a2da550f75950",
+    "path": "articles/4416542923667-how-to-perform-mass-provisioning-with-optisigns.md",
+    "updated_at": "2026-04-16T14:17:14Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4416542923667-How-to-Perform-Mass-Provisioning-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/4416542923667howtoperformma-q1p1i377fd4m"
+    }
+  },
+  "44650391786131": {
+    "hash": "7501f2b60c5dd4f7f8db47decc0b00eadec84d6020937514adee94736e5fe4d9",
+    "path": "articles/44650391786131-kiosk-setup-hub.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/44650391786131kiosksetuphub-u29nc9n4txep"
+    }
+  },
+  "44652521310099": {
+    "hash": "c24e793ef00cc6ab12cece7cf7759c14478d5931bb21b6678d034ca67da1b65d",
+    "path": "articles/44652521310099-kiosk10.md",
+    "updated_at": "2026-05-28T16:41:17Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44652521310099-Kiosk10",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/44652521310099kiosk10md-9s79jk2uvlu7"
+    }
+  },
+  "44669013147923": {
+    "hash": "54e8b973b205e4d5d8746eeb00100216133754b1bdcf79fd5e620bf49562e138",
+    "path": "articles/44669013147923-kiosk32.md",
+    "updated_at": "2026-04-29T15:27:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/44669013147923kiosk32md-se7ief1nkonc"
+    }
+  },
+  "44890229616403": {
+    "hash": "2f7b4522b2ffc815150deefab1f0ba41aa9e6d15591e332c7cadbe474da0683a",
+    "path": "articles/44890229616403-using-an-enterprise-network-802-1x-with-optisigns.md",
+    "updated_at": "2026-05-20T18:11:11Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/44890229616403usinganenterp-h66c9cl1m5yb"
+    }
+  },
+  "46299245284243": {
+    "hash": "28560fe636ba29539659130b3479a7ea44e7fa16f669577567a5248ed1bac77e",
+    "path": "articles/46299245284243-kiosk50.md",
+    "updated_at": "2026-03-30T17:22:38Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/46299245284243-Kiosk50",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/46299245284243kiosk50md-goae36fgtgz1"
+    }
+  },
+  "48241081473043": {
+    "hash": "21ddb928bcf6a2a6b39c12ba26b596a74cd33055fe6838112802c696a54cae77",
+    "path": "articles/48241081473043-operational-schedule-troubleshooting.md",
+    "updated_at": "2026-04-20T21:26:17Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/48241081473043operationalsc-wktmji0mtgmn"
+    }
+  },
+  "49039295567891": {
+    "hash": "ab20c4ab3d2da5773c9a3dedc2eed657f72ec15a26a69601baa22baff2e33369",
+    "path": "articles/49039295567891-chromeos-pwa-instructions.md",
+    "updated_at": "2026-05-05T15:48:27Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/49039295567891chromeospwain-ca9bflercnnk"
+    }
+  },
+  "5090125683219": {
+    "hash": "7a9593d7c5074839442f931d24ce4a36850e4ab532843bc2ba1f8365bfb8843f",
+    "path": "articles/5090125683219-brightsign-players.md",
+    "updated_at": "2026-05-05T15:50:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/5090125683219brightsignplay-u0o67068wp9c"
+    }
+  },
+  "51343184586643": {
+    "hash": "bc2aa8a4551817c3c8a75cc7434f1da4b7b015a20fce5855b675ef88233ae6ff",
+    "path": "articles/51343184586643-connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
+    "updated_at": "2026-07-01T16:55:46Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/51343184586643connectciscow-kiffn1uuqm30"
+    }
+  },
+  "52069065128723": {
+    "hash": "dcbc9d83aa0bf1e7f037149fc3582418768051233443f86f962a04bfe697cc38",
+    "path": "articles/52069065128723-connect-zoom-rooms-to-optisigns-digital-signage.md",
+    "updated_at": "2026-06-11T22:22:00Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/52069065128723connectzoomro-1lhhn9k74wwf"
+    }
+  },
+  "52113036672403": {
+    "hash": "d6dab16fb0c54c8859f8005666a2d00a9658ce13842916436ed6bc6ec074b9b8",
+    "path": "articles/52113036672403-room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
+    "updated_at": "2026-07-08T14:58:11Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/52113036672403roomintegrati-93b2gxhjsq46"
+    }
+  },
+  "52350277262483": {
+    "hash": "9373865f54bc149c851556421e2439a2b31ced439ff44dff1608185ee315cbad",
+    "path": "articles/52350277262483-connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
+    "updated_at": "2026-06-24T18:39:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/52350277262483connectmicros-x0uptt90spo3"
+    }
+  },
+  "52412502456083": {
+    "hash": "39d9e8b6981cc7eaaff77d2956ebaedda0cb32c343a9470aa3bdbc26c31b3a13",
+    "path": "articles/52412502456083-connect-google-meet-hardware-to-optisigns-digital-signage.md",
+    "updated_at": "2026-06-15T19:14:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/52412502456083connectgoogle-ykmw7mg8pyzb"
+    }
+  },
+  "52523606879251": {
+    "hash": "99902ff53123ccefb1775e2b931f8efc60000cb7ce63799408f850bef012aae3",
+    "path": "articles/52523606879251-optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
+    "updated_at": "2026-06-11T22:24:43Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/52523606879251optisignsdigi-fq217d1jvc71"
+    }
+  },
+  "53028011485715": {
+    "hash": "34f05740cd90f27cda172beb725f7f2122af43d46e8bcc9d67978b944cfce06e",
+    "path": "articles/53028011485715-how-to-display-a-snowflake-dashboard-with-optisigns.md",
+    "updated_at": "2026-07-01T21:59:22Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/53028011485715howtodisplaya-5qagp2fx49dn"
+    }
+  },
+  "53095698149011": {
+    "hash": "0b344dc65e9300126600331071c36283df6f170a53e0b61716ce2c661b5cfaf3",
+    "path": "articles/53095698149011-using-the-japan-earthquake-app.md",
+    "updated_at": "2026-07-08T18:39:51Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/53095698149011usingthejapan-uuh4hsk1o29j"
+    }
+  },
+  "53216900345875": {
+    "hash": "7ed9c19db877bc3224397bd9ed4127496c9cccefad8098a5a8681d148f43c68b",
+    "path": "articles/53216900345875-what-access-does-optisigns-have-to-my-account-and-devices.md",
+    "updated_at": "2026-07-06T15:29:04Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/53216900345875whataccessdoe-pyq7xr2uf3n3"
+    }
+  },
+  "53293393593491": {
+    "hash": "49f34ed83d2f8c65d6cab644d23e85257e901dc81481068f1ae7e8876c704478",
+    "path": "articles/53293393593491-refer-earn-optisigns-referral-program.md",
+    "updated_at": "2026-07-08T17:09:50Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/53293393593491referearnopti-im8147seeyv2"
+    }
+  },
+  "9169378546195": {
+    "hash": "e2de558f238ed5ea8d73e8f772caa97385acfdbf4e4b3629af1368d0645ea624",
+    "path": "articles/9169378546195-data-residency-and-optisigns.md",
+    "updated_at": "2026-06-05T14:25:01Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns",
+    "vector_file_ids": {
+      "gemini": "fileSearchStores/docsiftkb-1pm75s144r7i/documents/9169378546195dataresidencya-zzgnesdixr1j"
+    }
+  }
+}

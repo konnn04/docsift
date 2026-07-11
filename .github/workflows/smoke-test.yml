@@ -1,0 +1,41 @@
+name: Smoke test (1 article)
+
+# Manual only: builds the Dockerfile and runs main.py against a single real
+# article (SMOKE_TEST_LIMIT=1) to prove the scrape -> upload path works
+# end-to-end without touching the other ~100 articles in the store.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build image
+        run: docker build -t docsift-scraper .
+
+      - name: Run one-article smoke test
+        run: |
+          docker run --rm \
+            -e SMOKE_TEST_LIMIT=1 \
+            -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" \
+            -e GEMINI_MODEL="${{ vars.GEMINI_MODEL }}" \
+            -e GEMINI_STORE_NAME="${{ vars.GEMINI_STORE_NAME }}" \
+            -v "${{ github.workspace }}/articles:/app/articles" \
+            -v "${{ github.workspace }}/data:/app/data" \
+            docsift-scraper | tee run.log
+
+      - name: Job summary
+        if: always()
+        run: |
+          echo '### Smoke test log' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          tail -n 20 run.log >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: smoke-test-log
+          path: run.log
