@@ -66,8 +66,10 @@ class ZendeskClient:
             items = payload.get(key, [])
             yield items
             seen += len(items)
-            next_url = payload.get("next_page")
-            if next_url and seen > 5000: 
+            next_url = payload.get("next_page") or (payload.get("links") or {}).get("next")
+            if payload.get("meta", {}).get("has_more") is False:
+                next_url = None
+            if next_url and seen > 5000:
                 log.warning("Pagination guard triggered after %s items", seen)
                 break
 
