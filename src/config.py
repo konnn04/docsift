@@ -16,7 +16,7 @@ class Settings:
     min_articles: int = int(os.getenv("MIN_ARTICLES", "30"))
     page_size: int = int(os.getenv("PAGE_SIZE", "100"))
 
-    articles_dir: str = os.getenv("ARTICLES_DIR", "articles")
+    articles_dir: str = os.getenv("ARTICLES_DIR", "data/articles")
     manifest_path: str = os.getenv("MANIFEST_PATH", "data/manifest.json")
 
     ai_provider_order: tuple = tuple(

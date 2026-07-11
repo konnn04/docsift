@@ -12,9 +12,6 @@ on:
         required: false
         type: string
 
-permissions:
-  contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -36,7 +33,6 @@ jobs:
             -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" \
             -e GEMINI_MODEL="${{ vars.GEMINI_MODEL }}" \
             -e GEMINI_STORE_NAME="${{ vars.GEMINI_STORE_NAME }}" \
-            -v "${{ github.workspace }}/articles:/app/articles" \
             -v "${{ github.workspace }}/data:/app/data" \
             docsift-scraper "${args[@]}" | tee run.log
 
@@ -53,11 +49,3 @@ jobs:
         with:
           name: daily-scrape-log-${{ github.run_id }}
           path: run.log
-
-      - name: Commit updated articles/manifest
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add articles data
-          git diff --cached --quiet || git commit -m "chore: daily scrape sync ($(date -u +%Y-%m-%d))"
-          git push

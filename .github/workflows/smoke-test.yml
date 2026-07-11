@@ -22,7 +22,6 @@ jobs:
             -e GEMINI_API_KEY="${{ secrets.GEMINI_API_KEY }}" \
             -e GEMINI_MODEL="${{ vars.GEMINI_MODEL }}" \
             -e GEMINI_STORE_NAME="${{ vars.GEMINI_STORE_NAME }}" \
-            -v "${{ github.workspace }}/articles:/app/articles" \
             -v "${{ github.workspace }}/data:/app/data" \
             docsift-scraper | tee run.log
 

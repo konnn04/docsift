@@ -56,7 +56,6 @@ Run with Docker (matches what CI runs):
 ```bash
 docker build -t docsift-scraper .
 docker run --rm --env-file .env \
-  -v "$(pwd)/articles:/app/articles" \
   -v "$(pwd)/data:/app/data" \
   docsift-scraper
 ```
@@ -81,7 +80,7 @@ Three GitHub Actions workflows live in `.github/workflows/`:
 |---|---|---|
 | `tests.yml` | every push / PR | runs `pytest` |
 | `smoke-test.yml` | manual (`workflow_dispatch`) | scrapes + uploads exactly **one** real article, to sanity-check the whole path without touching the rest of the store |
-| `daily-scrape.yml` | cron, `03:00 UTC` daily (+ manual) | runs the full pipeline in Docker, then commits `articles/` and `data/manifest.json` back so the next run can diff against them |
+| `daily-scrape.yml` | manual (`workflow_dispatch`) only — cron disabled, scraping now runs on Railway | runs the full pipeline in Docker; state (`data/articles/`, `data/manifest.json`) is not persisted between runs here |
 
 **Job logs:** open the repo's **Actions** tab -> *Daily scrape & upload* -> pick a run. Each run also writes a short summary (added/updated/skipped/deleted counts) to that run's Job Summary page, and uploads the full log as a downloadable artifact.
 
